@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fragment Count</string>
+    <string name="increment">Incrementar</string>
+</resources>
